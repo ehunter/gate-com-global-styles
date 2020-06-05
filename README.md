@@ -1,2 +1,2 @@
-# gate-com-global-styles
+# Gate.com Global Brand Styles
 Global CSS Styles for Gate.com
